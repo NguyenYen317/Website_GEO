@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TechGuide</title>
+    <script>
+      (function () {
+        var pathname = window.location.pathname;
+        var repoName =
+          window.location.pathname.split("/").filter(Boolean)[0] || "";
+        var redirectUrl =
+          window.location.origin +
+          (repoName ? "/" + repoName : "") +
+          "/?redirect=" +
+          encodeURIComponent(
+            pathname + window.location.search + window.location.hash,
+          );
+        window.location.replace(redirectUrl);
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

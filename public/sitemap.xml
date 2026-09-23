@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://USERNAME.github.io/REPOSITORY_NAME/</loc></url>
+  <url><loc>https://USERNAME.github.io/REPOSITORY_NAME/phones</loc></url>
+  <url><loc>https://USERNAME.github.io/REPOSITORY_NAME/laptops</loc></url>
+  <url><loc>https://USERNAME.github.io/REPOSITORY_NAME/compare</loc></url>
+  <url><loc>https://USERNAME.github.io/REPOSITORY_NAME/consultation</loc></url>
+  <url><loc>https://USERNAME.github.io/REPOSITORY_NAME/articles</loc></url>
+  <url><loc>https://USERNAME.github.io/REPOSITORY_NAME/faq</loc></url>
+  <url><loc>https://USERNAME.github.io/REPOSITORY_NAME/about</loc></url>
+</urlset>
